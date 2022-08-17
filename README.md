@@ -1,0 +1,2 @@
+# SQLDelight
+- sqldelight with CRUD
